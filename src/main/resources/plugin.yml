@@ -1,0 +1,7 @@
+name: AntiVPNPlugin
+version: '${project.version}'
+main: org.antivpn.antivpnplugin.AntiVPNPlugin
+api-version: 1.19
+prefix: AVPNLOG
+load: STARTUP
+description: Fight against server botters and other bad actors with one plugin!
