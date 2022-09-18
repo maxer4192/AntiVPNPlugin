@@ -18,7 +18,6 @@ public final class AntiVPN extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        // Likely will have more added in a future release
         getLogger().info("AntiVPN has been disabled!");
 
 
